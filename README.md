@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://santiagoemanuel.github.io/my-gallery-challenge/">
+    <a href="https://santiagoemanuel.github.io/my-gallery-challenge/" target="_black">
       Demo
     </a>
     <span> | </span>
-    <a href="https://santiagoemanuel.github.io/my-gallery-challenge/">
+    <a href="https://santiagoemanuel.github.io/my-gallery-challenge/" target="_black">
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I">
+    <a href="https://devchallenges.io/challenges/gcbWLxG6wdennelX7b8I" target="_black">
       Challenge
     </a>
   </h3>
